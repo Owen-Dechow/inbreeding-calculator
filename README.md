@@ -1,6 +1,9 @@
 # inbreeding-calculator
 Inbreeding Coefficient Calculator for Pedigrees in Python
 
+* [View on PyPi](https://pypi.org/project/inbreeding-calculator/)
+* [View on GitHub](https://github.com/Owen-Dechow/inbreeding-calculator/)
+
 ## Installation
 
 ```
