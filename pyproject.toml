@@ -4,7 +4,7 @@ build-backend = "hatchling.build"
 
 [project]
 name = "inbreeding_calculator"
-version = "1.0.0"
+version = "1.0.1"
 description = "Calculate the inbreeding coefficient of a pedigree in Python."
 readme = "README.md"
 requires-python = ">=3.0"
